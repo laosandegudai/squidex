@@ -11,6 +11,7 @@
     <ProjectReference Include="..\Squidex.Domain.Apps.Core.Model\Squidex.Domain.Apps.Core.Model.csproj" />
     <ProjectReference Include="..\Squidex.Domain.Apps.Core.Operations\Squidex.Domain.Apps.Core.Operations.csproj" />
     <ProjectReference Include="..\Squidex.Domain.Apps.Events\Squidex.Domain.Apps.Events.csproj" />
+    <ProjectReference Include="..\Squidex.Infrastructure.Implementation\Squidex.Infrastructure.Implemenation.csproj" />
     <ProjectReference Include="..\Squidex.Infrastructure\Squidex.Infrastructure.csproj" />
     <ProjectReference Include="..\Squidex.Shared\Squidex.Shared.csproj" />
   </ItemGroup>
