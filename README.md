@@ -39,7 +39,7 @@ Current Version ![GitHub release](https://img.shields.io/github/release/squidex/
 * [guohai](https://github.com/seamys): FTP asset store support, Email rule support, custom editors and bug fixes.
 * [pushrbx](https://pushrbx.net/): Azure Store support.
 * [razims](https://github.com/razims): GridFS support.
-* [sauravvijay](ttps://github.com/sauravvijay): Kafka Rule action.
+* [sauravvijay](https://github.com/sauravvijay): Kafka Rule action.
 
 ## Contributing
 
@@ -48,7 +48,3 @@ Please create issues to report bugs, suggest new functionalities, ask questions 
 ## Cloud Version
 
 Although Squidex is free it is also available as a Saas version on [https://cloud.squidex.io](https://cloud.squidex.io).
-
-## License
-
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FSquidex%2Fsquidex.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FSquidex%2Fsquidex?ref=badge_large)
